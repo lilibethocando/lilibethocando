@@ -2,7 +2,9 @@
 
 👩‍💻 I thrive building APIs and everything related to them. I worked on projects like a Property Management Website using Flask and React, integrating Stripe for payments and PostgreSQL for data. I'm currently working on developing an owner dashboard and integrating Google API for streamlined sign-in.
 
-![](Image.png)
+<p align="center">
+  <img src="Image.png" alt="Profile Image">
+</p>
 
 
 
