@@ -8,7 +8,7 @@
 
 
 
-## 🛠️ Skills
+## 🛠️ Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -24,9 +24,24 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-
+## 📊 Stats
 <p align="center">
   <a href="https://github.com/lilibethocando/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=lilibethocando&show_icons=true&theme=dark" alt="Lilibeth's GitHub stats">
   </a>
 </p>
+
+## 🚀 Latest Projects
+
+- [Property Management Website](https://github.com/lilibethocando/Property_Management_Website)
+  
+  <img src="https://raw.githubusercontent.com/lilibethocando/Property_Management_Website/main/SPP_picture.png" alt="Property Management Website Image" width="600" style="margin-top: 10px;">
+
+
+
+  
+- [Task Management App](https://github.com/lilibethocando/flask_tasks_api.git)
+  
+  <img src="https://raw.github.com/lilibethocando/flask_tasks_api/main/task_management.png" alt="Property Management Website Image" width="600" style="margin-top: 10px;">
+
+
