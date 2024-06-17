@@ -37,14 +37,14 @@
 
   <img src="https://raw.githubusercontent.com/lilibethocando/CoLab_App/main/1.jpg" alt="Trip Planner Website Image" width="600" style="margin-top: 10px;">
 
-- [Property Management Website](https://github.com/lilibethocando/Property_Management_Website)
+- [Property Management Website](https://property-management-website.onrender.com)
   
   <img src="https://raw.githubusercontent.com/lilibethocando/Property_Management_Website/main/SPP_picture.png" alt="Property Management Website Image" width="600" style="margin-top: 10px;">
 
 
 
   
-- [Task Management App](https://github.com/lilibethocando/flask_tasks_api.git)
+- [Task Management App](https://flask-tasks-apis.onrender.com)
   
   <img src="https://raw.github.com/lilibethocando/flask_tasks_api/main/task_management.png" alt="Property Management Website Image" width="600" style="margin-top: 10px;">
 
