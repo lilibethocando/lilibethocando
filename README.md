@@ -33,6 +33,10 @@
 
 ## 🚀 Latest Projects
 
+- [Trip Planner Website](https://colab-app.onrender.com/)
+
+  <img src="https://raw.githubusercontent.com/lilibethocando/CoLab_App/main/1.jpg" alt="Trip Planner Website Image" width="600" style="margin-top: 10px;">
+
 - [Property Management Website](https://github.com/lilibethocando/Property_Management_Website)
   
   <img src="https://raw.githubusercontent.com/lilibethocando/Property_Management_Website/main/SPP_picture.png" alt="Property Management Website Image" width="600" style="margin-top: 10px;">
