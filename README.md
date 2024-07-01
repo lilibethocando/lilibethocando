@@ -26,7 +26,7 @@
 
 ## 📊 Stats
 <p align="center">
-  <a href="https://github.com/lilibethocando/github-readme-stats">
+  <a href="https://github.com/lilibethocando/github-readme-stats.git">
     <img src="https://github-readme-stats.vercel.app/api?username=lilibethocando&show_icons=true&theme=tokyonight" alt="Lilibeth's GitHub stats">
   </a>
 </p>
